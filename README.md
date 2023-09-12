@@ -5,20 +5,26 @@
 
 
 #### This repo contains
-* __tactile tracing.__
+* __tactile tracing__
     * Tactile garment edge tracing for unfolding.
-* __ridgeback.__
+* __ridgeback__
     * Combine baxter and ridgeback urdf.
-* __active pre-grasp manipulation training.__
-    * It relies on pytorch-blender.
-* __contrastive learning garment physics.__
-* __simulation environment for robot-assisted dressing.__
-    * It is bult in Blender simulation.
-* __robot-assisted dressing pipeline.__
+* __active pre-grasp manipulation__
+    * It integrates pytorch, openai gym and blender sumulation.
+* __self-supervised learning garment physics__
+    * It follows the framework of simCLR.
+* __robot pipeline__
     * It has been tested with Baxter robot, Clearpath Ridgeback and Robotic grippers.
+* __pipeline in simulation__
+    * It is bult in Blender simulation.
+
     
 #### Dependencies
 * pytorch-blender (https://github.com/cheind/pytorch-blender)
+* hospital bed and rail models could be found here: https://www.turbosquid.com/3d-model/free/bed/obj
+* robotiq gripper models could be found here: https://robotiq.com/products/2f85-140-adaptive-robot-gripper?ref=nav_product_new_button
+* Gelsight mini (https://github.com/gelsightinc/gsrobotics)
+
 
 #### Notes
 * Some paths are hard-coded.
