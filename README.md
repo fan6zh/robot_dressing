@@ -11,7 +11,7 @@ A reference implementation for the paper at Science Robotics `Learning garment m
 * Author: Fan Zhang (f.zhang16@imperial.ac.uk), Yiannis Demiris
 
 
-#### This repo contains
+🔬 **This repo contains** \
 * __tactile tracing__
     * Tactile garment edge tracing for unfolding.
 * __ridgeback__
