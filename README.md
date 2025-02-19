@@ -8,6 +8,10 @@ A reference implementation for the paper at Science Robotics `Learning garment m
 * Project page: https://fan6zh.github.io/sr/
 * Author: Fan Zhang (f.zhang16@imperial.ac.uk), Yiannis Demiris
 
+<p align="center">
+<img src="doc/pipeline.gif" width="900" height="270"/>
+</p>
+
 
 🔬 **This repo contains** 
 * Tactile garment edge tracing for unfolding.
