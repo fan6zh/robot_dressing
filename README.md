@@ -1,4 +1,4 @@
-# 🤖🌊 Learning Garment Manipulation Policies towards Robot-Assisted Dressing
+# 🤖👕 Learning Garment Manipulation Policies towards Robot-Assisted Dressing
 
 ![pipeline](doc/pipeline.png "pipeline")
 
