@@ -9,7 +9,7 @@ A reference implementation for the paper at Science Robotics `Learning garment m
 * Author: Fan Zhang (f.zhang16@imperial.ac.uk), Yiannis Demiris
 
 <p align="center">
-<img src="doc/pipeline.gif" width="900" height="400"/>
+<img src="doc/pipeline.gif" width="900" height="450"/>
 </p>
 
 
